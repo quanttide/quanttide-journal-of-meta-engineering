@@ -12,6 +12,7 @@
 
 ### 变更
 
+- `quanttide-market/2026-11-03.md` 迁出至 quanttide-journal-of-market-management（营销管理冷启动续迁），源侧不留副本
 - `quanttide-market/` 5 篇日志（2026-08-20 ~ 2026-10-09）迁出至 quanttide-journal-of-market-management（营销管理域冷启动），源侧不留副本
 - 删除 `quanttide-support/2026-09-01.md`：思考碎片，有价值的已提炼进档案仓《客户支持》（`quanttide-support/index.md`），碎片不再保留
 

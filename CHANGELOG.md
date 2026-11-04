@@ -17,6 +17,7 @@
 
 ### 新增
 
+- 迁入元工程 `data/context/journal/` 的全部日志：6 篇（`quanttide-auth`、`quanttide-market`、`quanttide-project`、`quanttide-relation` 各 1 篇 2026-11-03，`quanttide-meta` 2 篇 11-03 与 11-04，含当日「范畴／范式」补记）；新增 `quanttide-auth`、`quanttide-market`、`quanttide-project` 三个域目录，落 `<域>/<YYYY-MM-DD>.md` 平铺
 - 迁入元工程 `data/context/journal/` 的全部日志：16 个域共 18 篇（`quanttide-agent`、`quanttide-code` 各 2 篇，其余每域 1 篇；日期 2026-10-19 至 2026-10-28）；新增 `quanttide-academy`、`quanttide-devops`、`quanttide-language` 三个域目录，落 `<域>/<YYYY-MM-DD>.md` 平铺
 
 ## [0.1.0] - 2026-10-19
